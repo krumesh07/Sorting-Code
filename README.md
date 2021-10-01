@@ -2,3 +2,4 @@
 #### List of programs avilabe 
 - Selection sort
 - Bubble sort
+- Insertion Sort
